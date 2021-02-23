@@ -1,112 +1,114 @@
+## Strategic marketing management
 
-## 战略营销管理
+Strategic Marketing Management (SMM) is an important feature of modern Marketing, which is to manage enterprise's Marketing activities from a Strategic perspective.
 
-　　战略的角度对企业的营销活动进行管理是现代市场营销的一个重要特征, 由此形成了战略营销管理(Strategic Marketing Management, 缩写为SMM)。 
+## The basic meaning of "strategy" in SMM
 
-## SMM中“战略”的基本含义
+The world marketing master Philip Kotler (2000) pointed out that the key role of marketing in the formulation of enterprise strategic planning has the following three aspects:
 
-　　世界营销大师菲利普·科特勒(2000) 指出, 市场营销在企业战略规划制定的关键作用, 有如下三个方面:
+First, marketing provides guiding principles, suggesting that business strategies should be developed around meeting the needs of key customer groups. Second, marketing enables strategic planners to make investment decisions by helping to identify attractive market opportunities and to estimate the potential of companies to take advantage of them. Finally, within specific business units, marketing devises strategies to achieve unit objectives.
 
-　　第一, 市场营销提供指导原则, 建议企业战略应围绕满足重点顾客群的需要来制定。第二, 市场营销通过帮助找到有吸引力的市场机会和估计企业利用这些机会所具有的潜能, 来使战略规划制定者做出投资决策。最后, 在各个具体业务单位之内,市场营销为达到单位目标而设计战略。
+Among them, the first and second aspects are aimed at the enterprise level strategy, while the third aspect is aimed at the business level strategy. In addition, the marketing strategy can also be aimed at the marketing target of the marketing function itself. Thus it can be seen that the basic meaning of the word "strategy" before marketing management has three levels, namely, the role of marketing on enterprise strategy, business strategy and marketing objectives. Because the enterprise marketing has the "guiding" significance and "helping" function to the formation and implementation of the enterprise level strategy, the marketing management therefore has the "strategic" effect. That's the first level of meaning.
 
-　　其中第一、第二方面都是针对企业层次战略的, 而第三个方面则是针对业务层次战略的, 除此之外, 营销战略还可以是针对营销职能自身的营销目标的。由此可见, 营销管理之前冠以“战略”一词的基本含义有三个层次, 分别为市场营销对企业战略、业务战略和营销目标的作用。由于企业营销对企业层次战略的形成和实施具有“指导”意义和“帮助”作用, 营销管理因此具有了“战略”的功效。这是第一层次的含义。
+The second level of meaning of "strategic" in SMM refers to its "strategic" role in business strategy. Business strategy refers to the management strategy planning of a certain business in an enterprise, whose core is to solve the problem of "how to establish and strengthen the company's competitive position in the market". How does marketing help to this end? As we all know, the operation of a business is the collaboration of several corporate functions, such as: manufacturing and operations, marketing, research and development/technology, human resources/labor relations, financial strategy, etc. Any business strategy is a combination of these functions. However, in different business strategies, the importance of each function varies, with some being primary and some being secondary. The main function must be the main source of value in the enterprise value chain, which contributes the most to the business value. Generally speaking, in the case of constant technology level and business model of the whole industry, in the business strategy of a particular supply and demand state, which function is dominant and which function is secondary is unique, and it depends on the supply and demand structure. If an enterprise just adopts this functional strategy and builds an advantage in this functional field, it will stand out. For example, in the pharmaceutical industry, research and development is a key function. If a pharmaceutical company has established a strong research and development advantage, it will be able to win in the fierce competition. In recent years, the essence of mutual merger of pharmaceutical enterprises is to establish R&D advantages. However, due to the differences in technological innovation, management innovation, system innovation and government support, enterprises in the same industry are optional in the choice of functional strategy, which indicates that different kinds of enterprises in the same industry reflect this. The combination of uniqueness and selectivity of dominant positions constitutes the rise and fall of different firms and their business units throughout the industry.
 
-　　SMM 的“战略”的第二层次的含义指的是它在业务战略中的“战略”作用。业务战略指的是企业中某一项业务的管理策略规划, 其核心是解决“如何建立并加强公司在市场上的竞争地位”的问题。市场营销对这一目的有何帮助呢? 众所周知, 一个业务的运作是几个企业职能的分工合作, 这些职能包括: 制造及运作、市场营销、研究与开发/技术、人力资源/劳工关系、财务策略等。任何业务战略都是这些职能的组合。但是, 在不同的业务战略中, 各个职能的重要性不同, 有的是主要的, 有的是次要的。主要的职能必定是企业价值链中的主要价值来源,它对业务价值的贡献最大。一般来说, 在整个行业的技术水平、经营模式恒定的情况下, 在某一个特定供求状态下的业务战略中, 哪个职能为主, 哪个职能为次, 具有惟一性, 它取决于供求结构。哪家企业正好采取了这一职能战略, 在这一职能领域中建立了优势, 这个企业就能脱颖而出。例如, 在制药行业, 研究开发就是关键职能, 一个制药企业建立了强大的研发优势, 这个企业就能在激烈的竞争取胜。近年来制药企业的相互兼并的实质就是建立R&D 优势。但是由于各个企业的技术创新、经营创新、制度创新以及政府支持的不同, 同一行业的企业在职能战略的选择中是具有可择性, 这说明同一行业中不同企业的千姿百态反映了这一点。优势地位的惟一性和可择性的结合构成了整个行业中不同企业及其业务单位的兴衰成败。
+In all enterprises' success, although marketing itself is one of the core elements of business strategy, it does not mean that all enterprises' business strategies take establishing marketing advantages as the strategic goal. When a business strategy uses other functions as a base to build a strategic position, marketing is in a subordinate position. It can be seen that whether marketing plays a strategic role is the choice of business strategy. When we talk about marketing strategy or strategic marketing management, the word "strategy" has two meanings. The business strategy of an enterprise aims at creating marketing advantages and establishing a strong competitive position in the marketing link, which is one of the meanings of the word "strategy" in SMM. The strong brand position of Coca Cola Company is a typical marketing advantage, and its brand and marketing advantages are also the dominant position in the soft drink industry. In the soft drink industry, high-tech business strategy cannot help enterprises establish competitive advantages. Porter points out that there are only three types of basic competitive strategies at the business level: low cost and low price strategy, differentiated strategy and centralized strategy. Marketing can be the target of all three strategies. Through the establishment of direct marketing system, Dell has established a low cost advantage in the distribution link of the computer industry, thus establishing a strong competitive position. The field of marketing offers greater options for differentiated strategies. Examples include branding, packaging, design, distribution, advertising, public relations, and so on. The French LV luggage company has established a strong competitive position in the high-end market of the luggage industry by establishing its unique design advantages.
 
-　　在所有的企业成功中, 市场营销本身虽然是业务战略的核心要素之一, 但是这并不意味着所有企业的业务战略都以树立营销优势作为战略目标。当一个业务战略以其他职能作为构筑战略地位的阵地时, 市场营销就处于从属的地位。由此可见, 市场营销是否担负战略作用, 是业务战略的选择。当我们讲营销战略或战略营销管理时,“战略”一词具有两种意义。企业的业务战略以创造营销优势为目标, 在营销环节建立强大的竞争地位, 这是SMM中“战略”一词的意义之一。可口可乐公司的强大的品牌地位就是典型的营销优势, 它的品牌及营销优势也是软饮料行业中优势地位, 在软饮料行业中,采用高科技的业务战略无法帮助企业树立竞争优势。波特指出, 业务层次的基本竞争战略只有三类:低成本低价格战略、差别化战略和集中化战略。市场营销都可以成为这三类战略的目标。戴尔公司通过建立直销的体系, 在电脑业中的分销环节建立了低成本优势, 从而奠定了强有力的竞争地位。市场营销领域为差别化战略提供了更大的选择余地。例如品牌、包装、设计、分销、广告、公关等等。法国的LV箱包公司通过树立独特的设计优势而在箱包行业的高端市场中树立了强大的竞争地位。
+The third meaning of strategy in SMM relates to the division of tasks that marketing plays as a secondary role in business strategy. However, no matter whether the marketing function plays the leading role in the business strategy or not, the requirements of the business strategy constitute the role responsibility of the marketing function, which is called the target of the marketing function by the author. The task of marketing is to achieve this goal. Marketing strategy is the means to accomplish this task and achieve the marketing mission. Koetler's strategic role in marketing refers to the role of marketing in corporate strategy and business strategy, and clearly points out that the latter is fundamental, "within each business unit, the role of marketing is to help achieve the overall strategic objectives." The overall strategic objective here should be the business strategic objective, that is, the action plan and business strategy model formulated by the management to achieve the success of the operation in a particular business area. Thomson also pointed out that "the primary role of functional strategy is to support the company's overall business strategy and competitive strategy". As for the role of "helping" to achieve the general goal of the strategy, when the goal of the business strategy is to establish marketing advantages, marketing strategy is the main component of the business strategy, it plays a major role in the functional mix; When the goal of the business strategy is to establish other functional advantages, although marketing is not the leading role of the business strategy, it still has to cooperate with other functions to play its due role in building the dominant position.
 
-　　SMM 中战略的第三种含义是就市场营销在业务战略中所担负的次要角色的任务分工来说的。但是无论市场营销职能在业务战略中是否担任主角, 业务战略对它的要求构成了营销职能的角色职责, 笔者将其称为营销职能的目标。市场营销的任务就是实现这一目标。营销战略就是完成这一任务, 实现营销使命的手段。科特勒关于市场营销的战略作用指的是市场营销对企业战略和业务战略的作用, 并且明确地指出, 后者才是根本的,“在每个业务单位内, 市场营销的作用是帮助实现战略总目标”。这里的战略总目标应该是业务战略目标, 即管理层为取得某一特定业务领域中经营的成功而制定的行动方案和经营策略模式。汤姆森也指出,“职能战略的首要作用是支持公司的整体业务战略和竞争策略”。至于对实现战略总目标的“帮助”作用, 当业务战略的目标是树立营销优势时, 营销战略就是业务战略的主要组成部分, 它在各职能组合中居于主要地位; 当业务战略的目标是树立其他职能优势时, 市场营销虽然不是业务战略的主角, 但是依然要配合其他职能为构筑优势地位发挥应有的作用。 
+## SMM and Marketing Strategy
 
-## SMM与营销战略
+The so-called SMM refers to the enterprise process of marketing management which takes marketing strategy as the pivot and takes the formulation and implementation of marketing strategy as the core marketing management function. This shows the key role of marketing strategy in SMM. So what is the marketing strategy? What does it include?
 
-　　所谓SMM , 指的是企业营销管理以营销战略为轴心, 以营销战略的制定和实施为核心营销管理职能的企业过程。由此可见营销战略在SMM 中的关键作用。那么营销战略是什么呢? 它包括哪些内容呢?
+Some research points out that marketing strategies adapt to three different types or three different levels of problems. The first level is the marketing strategy at the macro level, which is centered on the comprehensive use of marketing mix variables (price, product, advertisement, etc.). According to this definition, developing a strategy for a product involves pricing that product, designing an advertising campaign, and then deciding on distribution. The middle level marketing strategy refers to the marketing factor strategy, which refers to the choice of alternative methods used for a certain factor in the marketing mix, such as "push" versus "pull" promotion strategy, "intensive" versus "select" versus "exclusive" distribution strategy, or "skimming" versus "penetration" pricing strategy, etc. At the micro level is the product-market entry strategy, which refers to the strategy for a specific marketing decision. For example, a firm's strategy to build market share, gain profit (and share), or defend market share, etc.
 
-　　有人研究指出, 营销战略适应于三种不同类型或三个不同层次的问题。第一层次是宏观层的营销战略, 它以对营销组合变量(价格、产品、广告等) 的综合运用为核心。根据这一定义, 为某个产品制定一个战略涉及为该产品进行定价、设计一个广告运动, 然后决定分销的方案。中观层次的营销战略指的是营销要素战略, 它指用于营销组合中某个要素的备择方式的抉择, 如“推”对“拉”的促销战略,“密集”对“精选”对“独家”分销战略, 或“撇脂”对“渗透”定价战略等。处于微观层次的是产品- 市场进入战略, 它指的是某个具体的营销决定的策略。如厂商力图建立市场份额的战略, 收获利润(和份额)的战略, 或者捍卫市场份额的战略等。
+There are also those who use the term marketing strategy in a broader sense. This view tends to emphasize two aspects: selecting a target market and selecting a marketing mix to serve that market. This kind of marketing strategy pays attention to the consumers, but ignores the competitors.
 
-　　也有人从更广泛的意义上使用营销战略一词。这种观点往往强调两个方面: 选择目标市场和选择一个营销组合去服务该市场。这种营销战略观重视的是消费者, 但是忽视了竞争者。
+A widely used definition of marketing strategy from the strategic perspective of management sees marketing strategy as a four-step process: (1) defining the business scope of the operation, (2) defining the business purpose, (3) developing plans for marketing, production, and other functions, and (4) budgeting for these plans. In this sense, marketing strategy is closer to corporate strategy.
 
-　　有一个从管理学中的战略观为营销战略所下的定义被广为使用, 这种观点把营销战略视为一个四步骤过程: (1) 界定经营的业务范围, (2) 确定经营宗旨, (3) 制定营销、生产及其他职能计划, (4) 为这些计划制定预算。从这种意义上讲, 营销战略更接近企业战略。
+The author believes that marketing strategy includes three different levels of content: target market, market positioning and marketing mix. The target market defines the customer group for marketing. Obviously, if the wrong marketing target, all the marketing countermeasures can only be irrelevant, is bound to lose.
 
-　　笔者认为, 营销战略包括三个不同的层次方面的内容: 目标市场、市场定位和营销组合。目标市场确定营销的顾客群。显然, 如果误定营销对象, 所有的营销对策只能是牛头不对马嘴, 势必满盘皆输。
+Market positioning is the choice of attack points and defensive points to attack the target market. Only with a firm market positioning can the target market be occupied. The marketing mix is a weapon to attack the target market and occupy the market position. The classic marketing mix includes product strategy, price strategy, distribution strategy and communication strategy. Its strategic nature lies in the choice of appropriate marketing means, play an unexpected effect, fight against competitors.
 
-　　市场定位则是进攻目标市场的攻击点和防守点的选择, 只有牢固的市场定位, 目标市场才能被占领。营销组合则是进攻目标市场、占住市场定位的武器, 经典的营销组合包括产品策略、价格策略、分销策略和传播策略。其战略性质在于选择合适的营销手段, 发挥意想不到的效果, 抗击竞争对手。
+The three components of the marketing strategy should not be changed for any situation. The target market of one of the businesses should be relatively stable after being determined, so should the positioning. For example, Rolex watches have been taking successful men as its target market for many years, and the noble positioning has not changed. From the perspective of Rolex watch business, its marketing strategy is to firmly occupy the high-end market of watches. Rolex marketing one of the most prominent is its brand strategy, that is to say the watch to the marketing of many factors, including the selection of materials, design of the watch, packaging, distribution network and advertising and other marketing elements, rolex hold shape the brand, the marketing efforts around the famous brand to make system arrangement, so we say rolex is take the brand marketing strategy, or simply referred to as the famous brand strategy. From this point of view, people do have different levels when using marketing strategy. For a brand new enterprise, business and product, the focus of marketing strategy is the selection of the target market, then the marketing mix has become a tactic. Facing a marketing situation where the target market has been defined, the key point of marketing strategy is to find market positioning. When the target market and market positioning are clear, the focus of the marketing strategy to marketing mix, which determined the primary factor in the marketing elements, it is the new marketing strategy, such as brand strategy, the rapid development of new products and promotion strategy, intensive distribution and selection of distribution strategy, push and pull strategy, intensive advertising strategy and so on. After the establishment of the brand strategy, how to establish a brand strategy has become a more specific strategy. It can be seen that the marketing strategy has at least three levels: the macro level -- the selected target market and the established market positioning; the middle level -- the marketing mix strategy; and the micro level -- the main realization way of a certain marketing factor combination strategy.
 
-　　营销战略的三大构件并不针对任何情况都要改变, 其中一个业务的目标市场在确定之后应该是比较稳定的, 定位也是如此。例如, 劳力士手表多年来一直以成功男士作为其目标市场, 高贵的定位也一直没有改变, 从劳力士手表业务来讲, 其营销战略就是牢牢占住手表的高档市场。劳力士营销中最突出的一点是它的名牌战略, 就是说在手表需要营销的众多因素, 包括手表的选材、外观设计、包装、分销网络和广告等营销要素之中, 劳力士紧紧抓住塑造名牌, 将营销的种种努力围绕名牌来进行系统安排, 所以我们说劳力士走的是名牌营销战略, 或者干脆称为名牌战略。由此看来, 人们在运用营销战略时确实具有不同的层次。就一个全新的企业、业务、产品来说, 营销战略的重点是目标市场的选择, 这时营销组合都成为战术。面对一个目标市场已经明确的营销形势, 营销战略的重点则是寻找市场定位。当目标市场和市场定位都已经明确时, 营销战略的重点则转向营销组合, 即在营销要素中确定首要因素, 它就是新的营销战略, 例如名牌战略、新产品快速开发和推广战略、密集分销和精选分销战略、推拉战略、密集广告战略等。而当确立了名牌战略之后, 如何来树立品牌的战略则成了更加具体的战略。由此可见, 营销战略至少有三个层次: 宏观战略层次——选择的目标市场和确立的市场定位, 中观层次——营销组合战略, 微观层次—— 某个营销要素组合战略的主要实现方式。
+Through the analysis of enterprise marketing path - strategy to diameter, some enterprises in the form of an official "marketing strategy" fixed ", but a lot of enterprises don't have such documents, or even the formation of a formal marketing strategy, some even later discovered the path of the marketing process has obvious traces. However, more and more enterprises begin to attach importance to the formal planning process, take step by step, in a planned way to form the marketing strategy, and write a complete marketing strategy plan, the springing of management consultancy and the development of MBA education have all played their part, because of the formation and write the strategic plan is a management consultant and mbas practice and obtain basic skills.
 
-　　通过分析得出的企业营销的必经之路—— 战略要径, 有的企业是以正式的“营销战略计划”的方式固定下来的, 但大量的企业并没有这样的正式文书, 甚至也没有正式的营销战略形成过程, 有些甚至是事后才发现营销过程具有明显的路径痕迹。不过, 越来越多的企业开始重视正式的计划过程, 采取有步骤、有计划地形成营销战略, 并撰写完整的营销战略计划书, 大量涌现的管理顾问公司和MBA 教育的发展对此都起到了推波助澜的作用,因为形成和撰写战略计划书是管理顾问们和MBA们苦练而获得的基本技艺。 
+## SMM and management processes
 
-## SMM与管理过程
+SMM takes marketing strategy as its axis, and its core functions are the formation and implementation of marketing strategy. The formation of marketing strategy includes four steps: the determination of marketing mission and target, the selection of target market, the establishment of strategic position and the design of marketing mix. The implementation of marketing strategy includes the establishment of marketing organization, marketing staff incentive, marketing performance evaluation of three links. This is shown in the following table.
 
-　　SMM 以营销战略为轴心, 其核心职能是营销战略的形成和实施两个环节。营销战略的形成包括营销使命目标的确定、目标市场的选择、战略地位的确立和营销组合的设计四个步骤。营销战略的实施包括营销组织的建立、营销人员的激励、营销绩效的评价三个环节。如下图所示。 
-
-Step 1 | Step 2 | Step 3 | Step 4 | Step 5 | Step 6 | Step 7 
+Step 1 | Step 2 | Step 3 | Step 4 | Step 5 | Step 6 | Step 7
 ------------ | -------------  | -------------  | ------------- | -------------  | -------------  | -------------
-  确定营销目标 | 选择目标市场 | 确定战略地位 | 设计营销组合 | 分配营销资源 | 建立营销组合 | 控制营销过程
+  Determine marketing objectives | Select the target market | Determine strategic position | Design the marketing mix | Allocate marketing resources | Build a marketing mix | Control the Marketing Process
 
-Step 1~4 形成营销战略，Step 5~7 实施营销战略
+Step 1,2,3,4 Form marketing strategy
 
-### 营销目标的确定
+Step 5,6 and 7 Implement marketing strategies
 
-　　企业授予营销的基本使命是在企业及其所接触的公众(个人和组织) 间建立长期互利的交换关系。但是在不同的业务战略中, 营销职能扮演的角色和任务有所不同, 大体上分为两类: 第一类是担任主攻作用, 帮助业务战略在营销领域构筑竞争地位, 树立营销竞争优势。第二类是担任辅攻作用, 帮助业务战略在其他职能领域中构筑竞争地位, 这时营销职能的任务是向业务战略提供营销观念和市场信息, 帮助其他职能创造价值, 最后将主要由其他职能领域创造的顾客价值呈递给顾客。无论是哪一类, SMM 和营销战略之所以有“战略”之名, 就是要以业务战略的目标——树立竞争优势为自己的目标。营销的这一目标称之为战略目标。营销战略目标包括创造营销差异和低成本营销优势以及在某个特色市场中建立低成本的聚集优势。 
+### The determination of marketing objectives
 
-### 目标市场的选择
+The basic mission of marketing granted by enterprises is to establish long-term and mutually beneficial exchange relations between enterprises and the public (individuals and organizations) they come into contact with. However, in different business strategies, marketing functions play different roles and tasks, which can be generally divided into two categories: the first category is to play a main role in helping business strategies to build competitive position in the marketing field and establish competitive advantages in marketing. The second is to play a supplementary role in helping the business strategy to build a competitive position in other functional areas. At this time, the task of the marketing function is to provide marketing concepts and market information to the business strategy and help other functions create value. Finally, the customer value mainly created by other functional areas is presented to the customers. No matter what kind, SMM and marketing strategy have the name of "strategy", is to take the goal of business strategy -- to establish competitive advantage as their goal. This goal of marketing is called the strategic goal. The objectives of marketing strategy include creating marketing differentiation and low cost marketing advantage and establishing low cost aggregation advantage in a particular market.
 
-　　市场营销对自己所服务的顾客对象有三种态度: 大规模营销、产品多样化营销、目标市场营销。大规模营销就是销售者大量生产、大量分销和大量促销一种产品给所有的购买者。产品多样化营销是销售者生产两种或两种以上, 具有不同特色、式样、质量、型号等的产品。目标市场营销是销售者先找到细分市场, 在其中选择一个或若干个, 然后针对每个细分市场, 开发适销对路的产品并制定相应的市场营销组合。现在的企业越来越多地采用目标市场营销战略, 这“能够更好地帮助销售者找到市场营销的机会”, 并且“迅速有效地进入目标市场”,“把注意力集中在有较大购买兴趣的顾客身上(‘来福枪’法) , 而不必分散他们的营销精力(‘三弹枪’法) ”。
+### Target market selection
 
-　　运用目标市场营销战略是SMM 的核心特征之一。可以说, SMM 就是围绕目标市场的占领而进行的营销管理。所以选择目标市场成为营销目标能否完成的前提。市场细分技术是服务于目标市场的选择的, 因为要选择目标市场, 首先得通过市场细分创造备择细分市场出来。 
+Marketing has three attitudes towards the customers it serves: mass marketing, product diversity marketing, and target marketing. Mass marketing is the mass production, mass distribution and mass promotion of a product by the seller to all buyers. Product diversification marketing means that the seller produces two or more products with different characteristics, styles, qualities, models and so on. Target marketing means that the seller first finds the market segments, chooses one or several of them, and then develops marketable products for each market segment and formulates the corresponding marketing mix. Now are used more and more enterprises target market marketing strategy, the "better able to help sellers find marketing opportunities", and "quickly and effectively into the target market", "focus on the larger interest of customers (" rifle" method), rather than having to spread their marketing effort (' three guns' method) ".
 
-### 战略市场地位的确立
+The use of target marketing strategy is one of the core features of SMM. It can be said that SMM is the marketing management around the occupation of the target market. Therefore, the selection of the target market becomes the premise of the completion of the marketing target. Market segmentation technology is to serve the selection of target market, because to select the target market, we must first create alternative market segments through market segmentation.
 
-　　目标市场如同一个标靶, 而市场定位如同标靶的靶心, 击中它才是满分。这个靶心存在于目标市场——目标顾客群的心目中, 市场定位就是在使产品在目标消费者心目中相对于竞争产品而言占据清晰、特别和理想的位置而进行的安排。因此, 营销人员设计的位置必须使自己的产品有别于竞争品牌, 并取得在目标市场中的最大战略优势。 
+### Establishment of strategic market position
 
-### 营销组合的设计
+The target market is like a target, and the market positioning is like the target's bullseye, hit it is full mark. This bullseye exists in the mind of the target market -- the target customer group. Market positioning is the arrangement that makes the product occupy a clear, special and ideal position in the mind of the target consumer relative to the competitive products. As a result, marketers must be positioned to differentiate their products from competing brands and achieve the greatest strategic advantage in the target market.
 
-　　市场的战略位置意味着顾客特别看重的价值之所在。因此企业应该围绕这一位置创造顾客价值, 营销的战略作用在于统整所有的企业职能, 共同创造这样的顾客价值, 除此之外, 由于市场营销是专门负责与顾客进行直接交流的部门, 因此它还要负责将这市场定位的卓越价值呈递给顾客。如果营销在呈递中能比竞争对手以更低的成本呈递价值, 或者可以提高附加值, 那么, 这一营销过程本身就成为业务战略之所在。所以营销组合中的所有要素都要为所确立的战略市场位置服务, 并为其添加价值。 
+### Design the marketing mix
 
-### 营销资源的预算和分配
+A strategic location in a market means where the value is particularly valued by customers. Therefore enterprises should around this location to create customer value, the function of marketing strategy is to summarize the all corporate functions, together create the customer value, in addition, because the marketing is responsible for departments to communicate directly with customers, so it will also responsible for the market positioning of the superior value to customers. If marketing can deliver value at a lower cost than competitors, or can increase the added value, then the marketing process itself becomes a business strategy. So all the elements of the marketing mix need to serve and add value to the established strategic market location.
 
-　　形成的营销战略如果缺乏实施, 那么也只能是一纸空文, 如果实施不力, 也将事倍功半。营销战略的实施包括营销资源的预算和分配、营销组织的建立和营销过程的控制。营销资源的配置通过对财务资源在生产、营销之间以及营销职能之间的预算实现, 这是营销战略实施的物质基础。 
+### Budget and allocation of marketing resources
 
-营销组织的建立
+The formation of marketing strategy if the lack of implementation, then it can only be a piece of paper, if the implementation of ineffective, will also get half the result with twice the effort. The implementation of marketing strategy includes the budget and allocation of marketing resources, the establishment of marketing organization and the control of marketing process. The allocation of marketing resources is realized through the budget of financial resources between production, marketing and marketing functions, which is the material basis of the implementation of marketing strategy.
 
-　　营销组织的建立实际上是对营销人力资源的配置, 包括营销队伍的规模、素质和组织结构方式等方面, 也包括对营销人员的激励措施和领导方式的安排。 
+### Establishment of marketing organization
 
-### 营销过程的控制
+The establishment of a marketing organization is actually the allocation of marketing human resources, including the size, quality and organizational structure of the marketing team, as well as the incentive measures and leadership arrangements for marketing personnel.
 
-　　为了在必要的时候调整战略或者战略的实施中的资源分配、组织方式、人员配置, SMM 有赖于对营销过程的严密监控, 不断评估形式, 对营销过程进行审计, 综合内外营销信息, 判断营销是否达到预期目的。
+### Control of the marketing process
 
-## SMM 的基本特点
+In order to adjust the strategy or the resource allocation, organizational mode and personnel allocation in the implementation of the strategy when necessary, SMM relies on the close monitoring of the marketing process, continuous evaluation of the form, audit of the marketing process, and comprehensive internal and external marketing information to judge whether the marketing has achieved the expected purpose.
 
-　　传统营销的展开围绕营销的各个组成要素——产品、分销、价格、推广, 此四者也就是闻名遐迩的营销组合要素——4Ps。战略营销包括这些策略变量, 但在某些重要的战略方面超出了传统营销的范围。战略营销遵循市场导向的战略发展过程,考虑不断变化的经营环境和不断传送顾客满意的要求。
+Basic features of SMM
 
-　　战略是管理层为实现组织目标而制订的经营管理行动计划, 它反映在由管理层为获得预期结果而设计的行动与行动模式(Pat tern) , 关心组织如何完成使命和实现预期目标。战略的经营管理观念包括五个方面:
+The development of traditional marketing revolves around the various components of marketing -- product, distribution, price and promotion. These four are the well-known elements of marketing mix -- 4Ps. Strategic marketing includes these strategic variables, but in some important strategic aspects beyond the scope of traditional marketing. Strategic marketing follows a market-oriented strategic development process that takes into account the ever-changing business environment and the constant delivery of customer satisfaction.
 
-　　* 战略是一个计划(plan) , 它为一个组织指明从现在走向未来的方向, 指引行动的路线。
+Strategy is the operation and management action plan formulated by the management to achieve the organizational goals. It is reflected in the actions and mode of action designed by the management to achieve the expected results (PAT tern). It is concerned about how the organization accomplishes its mission and achieves the expected goals. The concept of strategic management includes five aspects:
 
-　　* 战略也是一个行动模式(pattern) , 它强调行动不因时间而改变的相对稳定性。例如有的企业采取名牌战略, 选择高档市场, 有的企业倾向高风险战略。
+* A strategy is a plan, which points out the direction of an organization from the present to the future and guides the course of action.
 
-　　* 战略是一种态势(position) , 占住战场上的某个有利位置以赢得顾客。例如企业开发一种强势产品以攻占某个市场。
+* Strategy is also a pattern of actions, which emphasizes the relative stability of actions that do not change over time. For example, some enterprises adopt famous brand strategy, choose the high-end market, and some enterprises tend to high-risk strategy.
 
-　　* 战略是一种视野(perspective) , 它在企业未来的发展前景与企业现有的经营领域之间找出可行的途径。
+* Strategy is a position that occupies a certain vantage point on the battlefield to win customers. For example, a company develops a strong product to conquer a market.
 
-　　* 战略是一种策略或手法(ploy) , 旨在打击竞争对手。
+* Strategy is a kind of perspective, which seeks out feasible approaches between the future development prospects of an enterprise and its existing business fields.
 
-　　上述战略观的每个方面的英文都以P开头, 所以称之为5Ps战略观。战略营销是一种关于营销的思维和实践方式。战术营销的弊病是: 目标单一,手段简单, 行动随意, 结果短期, 忽视竞争; 而SMM具有目标的长期性、手段的综合性、行动的计划性、结果的深远性和竞争导向的特征。具体来说, 战略营销具有如下特征:
+* A strategy is a strategy or maneuver (ploy) designed to defeat a competitor.
 
-　　1. 以市场为动力。战略营销认为竞争优势源于顾客, 既基于厂商所取得的顾客满意的程度又基于厂商超越竞争对手的顾客满意水平的程度。营销战略将受顾客影响的经营战略与综合的市场为核心的各类活动结合起来, 以此建立竞争优势。战略营销包括旨在提供顾客满意的各种经营行动。战略制订要考虑经营范围、基本的备择方案、竞争优势、组织效能。在经营职能中, 要协调选择顾客和合理安排受市场影响的各经营变量。战略营销强调组织与环境的联系, 视营销为经营的整体职责, 而不只是一个专门职能。取得竞争优势需要集体行动和职能的整合。
+Each aspect of the above strategic concept begins with P in English, so it is called the 5Ps strategic concept. Strategic marketing is a kind of thinking and practice about marketing. The disadvantages of tactical marketing are: single goal, simple means, random action, short-term results, ignoring the competition; SMM has the characteristics of long-term goal, comprehensive means, planned action, far-reaching results and competition-oriented. Specifically, strategic marketing has the following characteristics:
 
-　　2. 注重环境的复杂多变性。经营环境的日益复杂和变化多端导致具有监视市场和竞争对手的战略营销的兴盛。外部因素改变了市场和竞争结构的组成方式和吸引力。由于营销处于组织与其顾客、渠道成员、以及竞争的边缘, 因此它是战略规划过程的核心。战略营销提供的专门知识有利于监测环境、确定产品规格、决定竞争对手。
+1. Be market-driven. Strategic marketing holds that competitive advantage comes from customers, which is based on both the degree of customer satisfaction achieved by the firm and the degree to which the firm surpasses the level of customer satisfaction of its competitors. Marketing strategy combines customer-influenced business strategies with integrated market-based activities to build competitive advantage. Strategic marketing includes operational actions aimed at providing customer satisfaction. Strategy formulation should consider business scope, basic alternatives, competitive advantage, and organizational effectiveness. In the operation function, it is necessary to coordinate the selection of customers and reasonably arrange the operation variables affected by the market. Strategic marketing emphasizes the link between the organization and the environment, and regards marketing as an overall responsibility of the business, rather than just a specialized function. Achieving competitive advantage requires collective action and integration of functions.
 
-　　 3. 以顾客满意作为战略使命。战略营销思想认为取得顾客满意的关键在于将顾客的需要与组织的服务计划过程联系起来。顾客对某些产品属性的偏好一定要转化为产品设计和生产指南。成功地取得高质量的产品和服务主要有赖于找出产品和服务的哪些方面有利于促进顾客满意。营销专业人员必须具备分析顾客满意所必备的经验和技能。
+2. Focus on the complexity and variability of the environment. The increasingly complex and varied business environment has led to the prosperity of strategic marketing with monitoring of the market and competitors. External factors change the composition and attractiveness of markets and competitive structures. Marketing is central to the strategic planning process because it is at the margins of an organization with its customers, channel members, and competition. Strategic marketing provides expertise that helps monitor the environment, determine product specifications, and determine competitors.
 
-　　4. 要围绕竞争优势的建立与发挥而进行营销的活动。
+3. Take customer satisfaction as the strategic mission. Strategic marketing thinking holds that the key to customer satisfaction is to link customer needs with an organization's service planning process. Customer preferences for certain product attributes must be translated into product design and production guidelines. The success of obtaining high quality products and services mainly depends on finding out what aspects of products and services are conducive to promoting customer satisfaction. Marketing professionals must have the necessary experience and skills to analyze customer satisfaction.
 
-　　5. 面向未来, 注重长期目标, 如市场份额、顾客满意或顾客忠诚。
+4. Marketing activities should focus on the establishment and play of competitive advantages.
 
-　　SMM 是营销思想发展的一个新阶段, 它认识到以消费者导向的营销观念忽视竞争的缺陷, 固特别强调消费者与竞争者之间的平衡。
+5. Be future-oriented and focus on long-term goals such as market share, customer satisfaction, or customer loyalty.
 
-　　由于现代企业越来越注重与顾客建立长期的互利的交换关系, 同时因经济全球化程度的日益加深带来的市场竞争的日益加剧, 买方市场的形成,营销经理已经无法像以往那样单纯地注重日常的经营, 而是必须运用战略管理的思维和工具指挥营销活动, 才能不辱使命。“营销经理从实施人员向组织战略制定人员的转变促进了战略营销管理作为一门学习和实践的课程的形成”。今天, SMM 因为其“战略”特征已经成为营销管理的主流范式, 受到了越来越广泛的应用。
+SMM is a new stage in the development of marketing thinking. It realizes that the concept of consumer-oriented marketing ignores the defects of competition and emphasizes the balance between consumers and competitors.
 
-## 参考文献
+Because the modern enterprise is more and more pay attention to the exchange with customers to establish long-term mutually beneficial relations, at the same time, due to the economic globalization degree deepening of market competition intensifying, the formation of a buyer's market, the marketing manager has not usual simply pay attention to daily operation, but must use the thinking and tools of strategic management marketing campaign command, to act. "The shift of marketing managers from implementers to organisational strategy makers has contributed to the formation of strategic marketing management as a course of study and practice". Today, because of its "strategic" characteristics, SMM has become the mainstream paradigm of marketing management and has been more and more widely used.
 
-战略营销管理 https://wiki.mbalib.com/wiki/战略营销管理
+
+## Reference
+
+Strategic Marketing Management https://wiki.mbalib.com/wiki/Strategic_marketing_management
