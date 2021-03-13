@@ -35,8 +35,21 @@ ps：顶层设计、国际化的视野、csr、理论与实践的结合
 
 
 
+I am a manager in a software company.
+I design and develop softwares and business solutions for my customers and for my own company.
 
+Coding, discussiong with my staff, designing internet products.
 
+I am also preparing my new business.
+
+Venture Architect
+Strategic Designer
+
+## Task 1 
+Identify small business customers' frictions, and come up with new business idea
+Creating new ideas to solve customer frictions
+
+Strategic Design
 
 
 
