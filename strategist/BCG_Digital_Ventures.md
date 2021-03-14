@@ -1,5 +1,75 @@
 # BCG_Digital_Ventures
 
+ Digital Ventures Virtual Experience Program
+Help define a new business opportunity for a major financial institution in the document management space. 
+
+ Why join this Virtual Experience Program?
+
+Hello and welcome to the BCG Digital Ventures virtual experience program!
+
+In the following program you will have the opportunity to experience the types of challenges that DV’ers face on a daily basis, including a few real world venture examples, to help bring it to life!
+
+BCG Digital Ventures is the corporate innovation and digital business-building arm of Boston Consulting Group. Our mission is to invent, build, and scale industry-disrupting businesses with the world’s most influential companies.
+
+Going beyond the scope of traditional consulting, we operate on the shoreline between pioneering and visionary tech, which allows us to capitalize on transformative opportunities and help clients disrupt the market and themselves. We work closely with clients, employing a proven process of rapid iteration that gets us from idea to impact in less than 12 months by leveraging their untapped strategic assets to create new revenue streams and sources of competitive advantage.
+
+You will be able to access these modules at anytime, anywhere around the world providing you with flexibility to complete them in your own time and at your own pace. 
+
+On top of this, once you’ve submitted your completed tasks you will get to see some of the real world sample answers from the DV team and get to see how some of the brightest minds in innovation would have tackled these challenges. 
+
+While we encourage you to complete all 5 tasks within the program, you are only required to complete 2 tasks to receive your digital badge of completion. We do acknowledge that all 5 tasks are quite different and require specialist vocational experience in line with BCG DV’s cohorts.
+
+We recognise that these tasks are challenging and that there are undoubtedly phrases and terminology you may not have heard before – don’t worry! We have tried to make this experience as true to life as possible and therefore our ask is that you attempt to seek out independent sources of information and do your own research, as required, to help guide you through the tasks.
+
+
+What will you do in this Open-Access Digital Ventures Virtual Experience Program?
+
+    1
+    Identify small business customers' frictions, and come up with a new business idea
+    Creating new ideas to solve customer frictions
+    Practical skills you will gain from working on this module:
+    Research
+    Ideation
+    Opportunity identification
+    Compare your work with real model solutions created by the BCG team.
+    2
+    Map the customer journey, develop personas, and identify features to solve human needs
+    Understanding the patient path to improve the experience
+    Practical skills you will gain from working on this module:
+    Ethnography
+    Systems design
+    Journey mapping
+    Ideation
+    Compare your work with real model solutions created by the BCG team.
+    3
+    Prepare a feature roadmap for a new digital product
+    Building a next-gen personalization engine
+    Practical skills you will gain from working on this module:
+    Digital roadmapping
+    Feature creation
+    Strategic rationale
+    Systems thinking
+    Compare your work with real model solutions created by the BCG team.
+    4
+    Determine the market opportunity and business model
+    Help your team understand the business viability of a venture concept
+    Practical skills you will gain from working on this module:
+    Market sizing
+    Competitor analysis
+    Business model analysis
+    Communications
+    Compare your work with real model solutions created by the BCG team.
+    5
+    Define the growth strategy for a new business
+    Help your team validate the desirability and business viability of a venture concept
+    Practical skills you will gain from working on this module:
+    Competitor analysis
+    Go-to-market strategy
+    Growth marketing
+    Communications
+    Compare your work with real model solutions created by the BCG team.
+
+This program is self-paced. It takes 11-13 hours in total to complete this program. While we encourage you to complete all 5 tasks, you are only required to complete 2 tasks to receive your digital badge of completion.
 
 
 
