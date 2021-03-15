@@ -46,34 +46,15 @@ What will you do in this Open-Access Design Virtual Experience Program?
 This program is self-paced. It takes approximately 5-6 hours to complete.
 
 
-Task 1
+## Task 1
 Strategic Design
 
 Uncover the implicit attitudes, behaviours, and motivations that drive people’s choices and desires.
-watch video instructions
-Watch video instructions
-Get background info and context
-Get background info and context
-Get details for your task
-Get details for your task
-View resources to help you learn
-View resources to help you learn
-Submit your work on this page
-Submit your work on this page
-Unlock model work
-Unlock the model work
+
 1
 Get your instructions from your supervisor
 Watch this video and hear about your task.
 
-Optional: Employment Preferences
-What kind of employment opportunities are you looking for?
-
-    Pre-internship
-    Internships / Vacation schemes
-    Full time
-
-This helps companies on Forage reach out to you for the right roles.
 2
 Here is the background information on your task
 
@@ -81,14 +62,6 @@ All design starts with research, and all research starts with a plan. A research
 
 We have recently been engaged by an Indonesian Bank to look at the current customer experience of everyday personal banking. There’s a strong belief that the young millennials will very soon form the largest segment for the client and they want to be ready for it.
 
-Invite a friend & complete the program together.
-
-Know someone who would love this?
-Share this with them!
-
-Copy link
-
-Send via
 3
 Here is your task
 
@@ -102,37 +75,17 @@ Using the resources provided below, assist the client with preparing a research 
 Resources to help you with the task
 
 One Page User Research Plan
-Click to visit website →
 How to create a UX research plan
-Click to visit website →
-
-5
-Submit your work
-You may only credit this task to your CV if you make a genuine attempt at the work. You may resubmit work, iterate upon and reattempt work as many times as you want.
 
 
-Click here to submit your work
-You will be sent to the submission upload page. You may resubmit work, iterate upon, and reattempt work as many times as you want.
-Your Incomplete Deliverables:
-Click to revisit them and update them instead of starting a new submission
+## Task 2
+Experience Design
 
-6
-Unlock the model work
-Download an example of work done at BCG in this topic. Submit an attempt at work first before this unlocks. 
-
-
+Formulate your insights into a realistic and reliable representation.
 
  Get your instructions from your supervisor
 Watch this video and hear about your task.
 
-Optional: Employment Preferences
-What kind of employment opportunities are you looking for?
-
-    Pre-internship
-    Internships / Vacation schemes
-    Full time
-
-This helps companies on Forage reach out to you for the right roles.
 2
 Here is the background information on your task
 
@@ -140,68 +93,28 @@ You have conducted a series of ethnographic research and gotten deep into user i
 
 A persona helps to drive alignment to who is the user we are designing for. The content is so rich that it allows one, potentially anyone, to gain insights and empathy just by reading. It also helps the team to define shared understanding for the work ahead.
 
-Invite a friend & complete the program together.
-
-Know someone who would love this?
-Share this with them!
-
-Copy link
-
-Send via
 3
 Here is your task
 
 Consolidate your findings into a single page persona.
 
 Analyse and synthesize the materials below to design your persona. We expect you to reference existing online materials on your own to flesh out the details.
+
 4
 Resources to help you with the task
 
 Creating Personas from User Research Results
-Click to visit website →
-
-5
-Submit your work
-You may only credit this task to your CV if you make a genuine attempt at the work. You may resubmit work, iterate upon and reattempt work as many times as you want.
-
-
-Click here to submit your work
-You will be sent to the submission upload page. You may resubmit work, iterate upon, and reattempt work as many times as you want.
-Your Incomplete Deliverables:
-Click to revisit them and update them instead of starting a new submission
-
-6
-Unlock the model work
-Download an example of work done at BCG in this topic. Submit an attempt at work first before this unlocks. 
-
 
 
 Task 3
 Tasks Recap
 
 Reflect on key learnings from the previous two tasks
-watch video instructions
-Watch video instructions
-Get background info and context
-Get background info and context
-Get details for your task
-Get details for your task
-View resources to help you learn
-View resources to help you learn
-Submit your work on this page
-Submit your work on this page
+
 1
 Get your instructions from your supervisor
 Watch this video and hear about your task.
 
-Optional: Employment Preferences
-What kind of employment opportunities are you looking for?
-
-    Pre-internship
-    Internships / Vacation schemes
-    Full time
-
-This helps companies on Forage reach out to you for the right roles.
 2
 Here is the background information on your task
 
@@ -209,14 +122,6 @@ We have put together some questions for you to reflect on your last two design t
 
 It's always a good practice to take a step back to think about what you have learned and reinforce that new knowledge.
 
-Invite a friend & complete the program together.
-
-Know someone who would love this?
-Share this with them!
-
-Copy link
-
-Send via
 3
 Here is your task
 
@@ -225,19 +130,9 @@ Have a go at the multiple-choice questions below and check what you've learned d
 Please note there are eight multiple-choice questions to complete in this task. Please be patient as each question loads and note there is only one right answer per question.
 
 You should expect to spend approximately 15 minutes completing this task. 
+
 4
 Resources to help you with the task
 We think you've got everything you need for this task but if you're stuck and want a hand, drop us an email at admin@theforage.com mentioning this module.
-5
-Submit your work
-You may only credit this task to your CV if you make a genuine attempt at the work. You may resubmit work, iterate upon and reattempt work as many times as you want.
-Practice or learning attempt:
-toggle this switch to flag this was a practice attempt to BCG
-
-Upload icon
-Click here to start the task
-You will be sent to the task page. You may resubmit work, iterate upon, and reattempt work as many times as you want.
-Your Incomplete Deliverables:
-Click to revisit them and update them instead of starting a new submission 
 
 
