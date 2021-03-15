@@ -2,17 +2,7 @@
 
  Digital Transformation Virtual Experience Program
 Take the opportunity to get a true feel of what it’s like to work at BCG.
-This Virtual Experience Program is free for all students
-Learn More
 
-free program
-This Virtual Experience Program is free for students
-timing
-This program is self-paced. It takes 5-6 hours to complete this Virtual Experience Program
-practical-skills
-Get practical skills and experience from BCG
-cv policy
-BCG actively recruits passionate, open-minded, and accomplished students at colleges and universities around the world. Click here to know more
 Why join this Virtual Experience Program?
 
 Welcome to BCG’s virtual experience program! We’re so excited to have you here with us!
@@ -128,30 +118,11 @@ Task 1
 Market Research
 
 Understand emerging trends in using apps to improve customer engagement in F&B industry.
-watch video instructions
-Watch video instructions
-Get background info and context
-Get background info and context
-Get details for your task
-Get details for your task
-View resources to help you learn
-View resources to help you learn
-Submit your work on this page
-Submit your work on this page
-Unlock model work
-Unlock the model work
+
 1
 Get your instructions from your supervisor
 Watch this video and hear about your task.
 
-Optional: Employment Preferences
-What kind of employment opportunities are you looking for?
-
-    Pre-internship
-    Internships / Vacation schemes
-    Full time
-
-This helps companies on Forage reach out to you for the right roles.
 2
 Here is the background information on your task
 
@@ -161,15 +132,6 @@ The Consultant, Evelien, held an initial team meeting. The team thinks that cust
 
 The Consultant wants a client discussion deck laying out emerging digital trends in the F&B industry, including a section on how other F&B companies have increased customer engagement through the use of mobile apps. After discussion with your team, you have identified the need to do some market research and develop 2 case studies of best-in-class engagement apps in F&B.
 
-
-Invite a friend & complete the program together.
-
-Know someone who would love this?
-Share this with them!
-
-Copy link
-
-Send via
 3
 Here is your task
 
@@ -185,65 +147,25 @@ Please develop three to four slides covering two key areas for each case:
 4
 Resources to help you with the task
 We think you've got everything you need for this task but if you're stuck and want a hand, drop us an email at admin@theforage.com mentioning this module.
-5
-Submit your work
-You may only credit this task to your CV if you make a genuine attempt at the work. You may resubmit work, iterate upon and reattempt work as many times as you want.
 
-
-Click here to submit your work
-You will be sent to the submission upload page. You may resubmit work, iterate upon, and reattempt work as many times as you want.
-Your Incomplete Deliverables:
-Click to revisit them and update them instead of starting a new submission
-
-6
-Unlock the model work
-Download an example of work done at BCG in this topic. Submit an attempt at work first before this unlocks. 
 
 Task 2
 Use Case Development
 
 Identifying the highest impact features for consumers.
-watch video instructions
-Watch video instructions
-Get background info and context
-Get background info and context
-Get details for your task
-Get details for your task
-View resources to help you learn
-View resources to help you learn
-Submit your work on this page
-Submit your work on this page
-Unlock model work
-Unlock the model work
+
 1
 Get your instructions from your supervisor
 Watch this video and hear about your task.
 
-Optional: Employment Preferences
-What kind of employment opportunities are you looking for?
+Use Case Development & Prioritization
 
-    Pre-internship
-    Internships / Vacation schemes
-    Full time
-
-This helps companies on Forage reach out to you for the right roles.
 2
 Here is the background information on your task
 
 After a discussion with the BCG project team, the client team agreed to improve the existing mobile app. The team’s task is now to identify what features should be included in the app.
 
 The Principal, Daniel, wants you to think from the customers’ perspective and in an agile mindset to brainstorm potential features that can be included in the app.
-
-Invite a friend & complete the program together.
-
-Know someone who would love this?
-Share this with them!
-
-Copy link
-
-Send via
-3
-Here is your task
 
 Part A:
 
@@ -260,53 +182,16 @@ Helpful Hints:
 
 Using the task template in the resources section below, develop a PowerPoint slide to showcase your recommendations.
 
-4
-Resources to help you with the task
-
-Task template
-Use this template to complete this task
-Click to download file →
-
-5
-Submit your work
-You may only credit this task to your CV if you make a genuine attempt at the work. You may resubmit work, iterate upon and reattempt work as many times as you want.
-
-
-Click here to submit your work
-You will be sent to the submission upload page. You may resubmit work, iterate upon, and reattempt work as many times as you want.
-Your Incomplete Deliverables:
-Click to revisit them and update them instead of starting a new submission
-
-6
-Unlock the model work
-Download an example of work done at BCG in this topic. Submit an attempt at work first before this unlocks. 
 
 Task 3
 Impact Assessment & Prioritization
 
 Evaluating product features along key criteria
-watch video instructions
-Watch video instructions
-Get background info and context
-Get background info and context
-Get details for your task
-Get details for your task
-View resources to help you learn
-View resources to help you learn
-Submit your work on this page
-Submit your work on this page
+
 1
 Get your instructions from your supervisor
 Watch this video and hear about your task.
 
-Optional: Employment Preferences
-What kind of employment opportunities are you looking for?
-
-    Pre-internship
-    Internships / Vacation schemes
-    Full time
-
-This helps companies on Forage reach out to you for the right roles.
 2
 Here is the background information on your task
 
@@ -318,14 +203,6 @@ The client has valued your proposal a lot - however, they have done some thinkin
 
 The client is now asking you to have a look at the features they are thinking of and the criteria they would like to apply to take their decision.
 
-Invite a friend & complete the program together.
-
-Know someone who would love this?
-Share this with them!
-
-Copy link
-
-Send via
 3
 Here is your task
 
@@ -334,47 +211,69 @@ Click on section 5 below to get started on this interactive task.
 Please use the first four columns to rank the features along the shown criteria on a scale from 1 = very low to 4 = very high.
 
 Based on your assessment, please indicate in column 5 the order of priorities you would allocate to the different features from 1 = top priority to 5 = lowest priority.
-4
-Resources to help you with the task
-We think you've got everything you need for this task but if you're stuck and want a hand, drop us an email at admin@theforage.com mentioning this module.
-5
-Submit your work
-You may only credit this task to your CV if you make a genuine attempt at the work. You may resubmit work, iterate upon and reattempt work as many times as you want.
+
+Impact Assessment & Prioritization
+Please use the first four columns to rank the features along the shown criteria on a scale from 1 = very low to 4 = very high. Based on your assessment, please indicate in column 5 the order of priorities you would allocate to the different features from 1 = top priority to 5 = lowest priority. Remember: once you have submitted your answers, you can hover over the red boxes for more information on any incorrect answers.
+
+Customer Experience
+Revenue Impact
+Low cost to implement
+Scalability
+Resulting prioritization
+
+Celebratory greetings / messages (E.g. triggered based on country specific external events or cross reference with profile
+
+-4 Hmm... Customers really love this
+-3 This could generate quite some revenue - however, might not be the very top performer in this category
+-2 From experience, cost for this feature are often underestimated - it's not very cheap!
+-4 Okay... What would really be limiting the scale of this feature?
+-3 In the end, this feature will not be top priority - however, it's definitely not ending up at the bottom of the list either!
+
+Geo-location targeting (E.g. Alerts on new storeopening / new product in-store / new promotions instore/ nearby stores)
+
+-3 This feature is pretty popular with customers!
+-4 For revenue impact, this feature is simply fantastic!
+-1 One might not not believe it, but geo-location targeting is indeed very expensive compared to the other features...
+-1 Comparing with the other features, the opportunities for scaling this one are actually pretty limited... Don't you think?
+-5 Taking all criteria into account, this feature is not ranking that high in the end...
+
+Behavioural pattern triggers (E.g. Remind customers to purchase favourite drink based on data from purchase history)
+
+-4 Think about this again... Which customer whould not love an app understanding her/his every behaviour
+-4 Targeting customers in the exactly moments and situations often generates excellent revenue!
+-4 Implementing this feature is pretty cheap...
+-4 Looks like this could be scaled anywhere with as many people as possible...
+-1 No... Looking at the feature's rating across all criteria, this feature should be doing weight better!
+
+Time-based personalized offers (E.g. Remind customers of time lapse since previous purchase)
+
+-2 A purely time-based offer is not really too execiting for customers... 
+-3 Revenues impact would be significant - however, not as high as for other feature...
+-4 This should rank very similar to behavioural pattern triggers...
+-4 This should rank very similar to behavioural pattern triggers...
+-2 This feature deserves some prioritization towards most of the others
+
+Weather-sensitive personalization (E.g. Recommend a hot drink when it is raining or when the weather cold)
+
+-3 Recommendation besed on weather definitely appeal more to customers than time-based ones
+-3 This must be siimilar to celebratory greetings...
+-3 This is not too expensive to implement, there are cheaper features around here though!
+-3 There is only few limitations to this feature's scalability!
+-4 Yeah... Doesn't look like this feature will be of high priority!
 
 
-Click here to submit your work
-You will be sent to the submission upload page. You may resubmit work, iterate upon, and reattempt work as many times as you want.
-Your Incomplete Deliverables:
-Click to revisit them and update them instead of starting a new submission 
+
+
 
 Task 4
 Economics
 
 Rapid experimentation - evaluate the results from pilot runs.
-watch video instructions
-Watch video instructions
-Get background info and context
-Get background info and context
-Get details for your task
-Get details for your task
-View resources to help you learn
-View resources to help you learn
-Submit your work on this page
-Submit your work on this page
-Unlock model work
-Unlock the model work
+
 1
 Get your instructions from your supervisor
 Watch this video and hear about your task.
 
-Optional: Employment Preferences
-What kind of employment opportunities are you looking for?
-
-    Pre-internship
-    Internships / Vacation schemes
-    Full time
-
-This helps companies on Forage reach out to you for the right roles.
 2
 Here is the background information on your task
 
@@ -384,14 +283,6 @@ Note: Sprint is a term used in Agile project management. In Agile project manage
 
 Each pilot ran for a week. In the first pilot, a personalized offer was sent to all CoffeeCo app users where they get a 10% discount on the large drink if they make a purchase within 24 hours. In the second pilot, a personalized recommendation was sent to all CoffeeCo app users where users who upgrade their drink to large size are entitled to a 50% discount on a pastry that complements the drink. The team have gathered some data and would like to analyze the data and evaluate which feature is more effective.
 
-Invite a friend & complete the program together.
-
-Know someone who would love this?
-Share this with them!
-
-Copy link
-
-Send via
 3
 Here is your task
 
@@ -412,58 +303,25 @@ You are advised to calculate the impact on the revenue and profits pool as well 
 Sub-task 4:
 
 Create a slide to showcase the impact of each pilot run and the revenue impact if the pilot run is scaled up to the entire China market.
+
 4
 Resources to help you with the task
 
 Task template
-Click to download file →
+
 Use this template to complete the task
 Excel data from pilot runs
-Click to download file →
-
-5
-Submit your work
-You may only credit this task to your CV if you make a genuine attempt at the work. You may resubmit work, iterate upon and reattempt work as many times as you want.
-
-
-Click here to submit your work
-You will be sent to the submission upload page. You may resubmit work, iterate upon, and reattempt work as many times as you want.
-Your Incomplete Deliverables:
-Click to revisit them and update them instead of starting a new submission
-
-6
-Unlock the model work
-Download an example of work done at BCG in this topic. Submit an attempt at work first before this unlocks.
 
 
 Task 5
 Scaling
 
 Scaling up pilot using agile methodology.
-watch video instructions
-Watch video instructions
-Get background info and context
-Get background info and context
-Get details for your task
-Get details for your task
-View resources to help you learn
-View resources to help you learn
-Submit your work on this page
-Submit your work on this page
-Unlock model work
-Unlock the model work
+
 1
 Get your instructions from your supervisor
 Watch this video and hear about your task.
 
-Optional: Employment Preferences
-What kind of employment opportunities are you looking for?
-
-    Pre-internship
-    Internships / Vacation schemes
-    Full time
-
-This helps companies on Forage reach out to you for the right roles.
 2
 Here is the background information on your task
 
@@ -473,14 +331,6 @@ The goal of this exercise is to give you a flavour of what it is like to work in
 
 BCG has dedicated digital subsidiaries such as BCG Gamma and BCG Platinion that have robust digital capabilities, advanced analytics, and deep learning expertise. 
 
-Invite a friend & complete the program together.
-
-Know someone who would love this?
-Share this with them!
-
-Copy link
-
-Send via
 3
 Here is your task
 
@@ -493,60 +343,26 @@ Have a think through the objectives across different work streams and draft a ne
 Then go to Trello and create a board to capture your thoughts, and submit a screenshot of your completed board.
 
 Hint: Using the resources section below, please read up on agile project management methodologies online, download Trello and use the template as an example of how to set out your findings.
+
 4
 Resources to help you with the task
 
 Agile Epics: Definition, Examples, & Templates
-Click to visit website →
 What is Sprint Planning?
-Click to visit website →
-
 Create your Trello Board here!
-Click to visit website →
 Download Trello (for free!) to create your board
 Trello Board - example
-Click to download file →
 
-5
-Submit your work
-You may only credit this task to your CV if you make a genuine attempt at the work. You may resubmit work, iterate upon and reattempt work as many times as you want.
-
-
-Click here to submit your work
-You will be sent to the submission upload page. You may resubmit work, iterate upon, and reattempt work as many times as you want.
-Your Incomplete Deliverables:
-Click to revisit them and update them instead of starting a new submission
-
-6
-Unlock the model work
-Download an example of work done at BCG in this topic. Submit an attempt at work first before this unlocks. 
 
 Task 6
 Project Recap
 
 Reflect on key learnings from your DigitalBCG project.
-watch video instructions
-Watch video instructions
-Get background info and context
-Get background info and context
-Get details for your task
-Get details for your task
-View resources to help you learn
-View resources to help you learn
-Submit your work on this page
-Submit your work on this page
+
 1
 Get your instructions from your supervisor
 Watch this video and hear about your task.
 
-Optional: Employment Preferences
-What kind of employment opportunities are you looking for?
-
-    Pre-internship
-    Internships / Vacation schemes
-    Full time
-
-This helps companies on Forage reach out to you for the right roles.
 2
 Here is the background information on your task
 
@@ -554,14 +370,6 @@ The consultant, Julia, has put together some questions for you to reflect on you
 
 The end of a project is always a good point in time to take a step back to think about what you have learned and what you would like to practice next.
 
-Invite a friend & complete the program together.
-
-Know someone who would love this?
-Share this with them!
-
-Copy link
-
-Send via
 3
 Here is your task
 
@@ -570,17 +378,3 @@ Have a go at the multiple choice questions below and check what you've learned d
 Start the quiz by clicking 'Click here to start the task' in section 5 below. 
 
 Please note there are 6 multiple choice questions to complete in this task. Please be patient as each question loads and note there is only one right answer per question.
-4
-Resources to help you with the task
-We think you've got everything you need for this task but if you're stuck and want a hand, drop us an email at admin@theforage.com mentioning this module.
-5
-Submit your work
-You may only credit this task to your CV if you make a genuine attempt at the work. You may resubmit work, iterate upon and reattempt work as many times as you want.
-Practice or learning attempt:
-toggle this switch to flag this was a practice attempt to BCG
-
-Upload icon
-Click here to start the task
-You will be sent to the task page. You may resubmit work, iterate upon, and reattempt work as many times as you want.
-Your Incomplete Deliverables:
-Click to revisit them and update them instead of starting a new submission
