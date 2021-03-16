@@ -2,17 +2,7 @@
 
  Data Science & Advanced Analytics Virtual Experience Program
 Take the opportunity to get a true feel of what it’s like to work at BCG.
-This Virtual Experience Program is free for all students
-Learn More
 
-free program
-This Virtual Experience Program is free for students
-timing
-This program is self-paced. It takes 6-7 hours to complete this Virtual Experience Program
-practical-skills
-Get practical skills and experience from BCG
-cv policy
-BCG actively recruits passionate, open-minded, and accomplished students at colleges and universities around the world. Click here to know more
 Why join this Virtual Experience Program?
 
 Welcome to BCG’s virtual experience program! We’re so excited to have you here with us!
@@ -123,34 +113,15 @@ Task 1
 Business Understanding & Problem Framing
 
 How to quickly understand the business context
-watch video instructions
-Watch video instructions
-Get background info and context
-Get background info and context
-Get details for your task
-Get details for your task
-View resources to help you learn
-View resources to help you learn
-Submit your work on this page
-Submit your work on this page
-Unlock model work
-Unlock the model work
+
 1
 Get your instructions from your supervisor
 Watch this video and hear about your task.
 
-Optional: Employment Preferences
-What kind of employment opportunities are you looking for?
-
-    Pre-internship
-    Internships / Vacation schemes
-    Full time
-
-This helps companies on Forage reach out to you for the right roles.
 2
 Here is the background information on your task
 
-PowerCo is a major gas and electricity utility that supplies to corporate, SME (Small & Medium Enterprise), and residential customers. The power-liberalization of the energy market in Europe has led to significant customer churn , especially in the SME segment. They have partnered with BCG to help diagnose the source of churning SME customers.
+PowerCo is a major gas and electricity utility that supplies to corporate, SME (Small & Medium Enterprise), and residential customers. The power-liberalization of the energy market in Europe has led to significant customer churn(Customer attrition / Loss of a customer) , especially in the SME segment. They have partnered with BCG to help diagnose the source of churning SME customers.
 
 One of the hypotheses under consideration is that churn is driven by the customers’ price sensitivities and that it is possible to predict customers likely to churn using a predictive model. The client also wants to try a discounting strategy, with the head of the SME division suggesting that offering customers at high propensity to churn a 20% discount might be effective.
 
@@ -158,14 +129,6 @@ The Lead Data Scientist (LDS) held an initial team meeting to discuss various hy
 
 Your LDS wants an email with your thoughts on how the team should go about to test this hypothesis.
 
-Invite a friend & complete the program together.
-
-Know someone who would love this?
-Share this with them!
-
-Copy link
-
-Send via
 3
 Here is your task
 
@@ -176,56 +139,22 @@ Formulate the hypothesis as a data science problem and lay out the major steps n
 We would suggest spending no more than one hour on this task.
 
 Please note, there are multiple ways to approach the task and that the sample answer is just one way to do it.
+
 4
 Resources to help you with the task
 
 Problem Context Document
-Click to download file →
 
-We recognise that these tasks are challenging and that there are undoubtedly phrases and terminology you may not have heard before – don’t worry! We have tried to make this experience as true to life as possible and therefore our ask is that you attempt to seek out independent sources of information and do your own research, as required, to help guide you through the tasks.
-
-5
-Submit your work
-You may only credit this task to your CV if you make a genuine attempt at the work. You may resubmit work, iterate upon and reattempt work as many times as you want.
-
-
-Click here to submit your work
-You will be sent to the submission upload page. You may resubmit work, iterate upon, and reattempt work as many times as you want.
-Your Incomplete Deliverables:
-Click to revisit them and update them instead of starting a new submission
-
-6
-Unlock the model work
-Download an example of work done at BCG in this topic. Submit an attempt at work first before this unlocks. 
 
 Task 2
 Exploratory Data Analysis & Data Cleaning
 
 Understanding the business through data
-watch video instructions
-Watch video instructions
-Get background info and context
-Get background info and context
-Get details for your task
-Get details for your task
-View resources to help you learn
-View resources to help you learn
-Submit your work on this page
-Submit your work on this page
-Unlock model work
-Unlock the model work
+
 1
 Get your instructions from your supervisor
 Watch this video and hear about your task.
 
-Optional: Employment Preferences
-What kind of employment opportunities are you looking for?
-
-    Pre-internship
-    Internships / Vacation schemes
-    Full time
-
-This helps companies on Forage reach out to you for the right roles.
 2
 Here is the background information on your task
 
@@ -243,14 +172,6 @@ Please submit your data as code script or a PDF version of the script/notebook. 
 
 Please note, there are multiple ways to approach the task and that the sample answer is just one way to do it.
 
-Invite a friend & complete the program together.
-
-Know someone who would love this?
-Share this with them!
-
-Copy link
-
-Send via
 3
 Here is your task
 
@@ -261,63 +182,27 @@ Clean the data – you might have to address missing values, duplicates, data ty
 Sub-Task 2:
 
 Perform some exploratory data analysis. Look into the data types, data statistics, and identify any missing data or null values, and how often they appear in the data. Visualize specific parameters as well as variable distributions.
+
 4
 Resources to help you with the task
 
 Task Description and Description of Fields in the Dataset
-Click to download file →
 Training Data CSV
-Click to download file →
 Training Data History CSV
-Click to download file →
 Training Data Output
-Click to download file →
 
 We recognise that these tasks are challenging and that there are undoubtedly phrases and terminology you may not have heard before – don’t worry! We have tried to make this experience as true to life as possible and therefore our ask is that you attempt to seek out independent sources of information and do your own research, as required, to help guide you through the tasks.
-
-5
-Submit your work
-You may only credit this task to your CV if you make a genuine attempt at the work. You may resubmit work, iterate upon and reattempt work as many times as you want.
-
-
-Click here to submit your work
-You will be sent to the submission upload page. You may resubmit work, iterate upon, and reattempt work as many times as you want.
-Your Incomplete Deliverables:
-Click to revisit them and update them instead of starting a new submission
-
-6
-Unlock the model work
-Download an example of work done at BCG in this topic. Submit an attempt at work first before this unlocks.
 
 
 Task 3
 Feature Engineering
 
 Uncovering signals within data
-watch video instructions
-Watch video instructions
-Get background info and context
-Get background info and context
-Get details for your task
-Get details for your task
-View resources to help you learn
-View resources to help you learn
-Submit your work on this page
-Submit your work on this page
-Unlock model work
-Unlock the model work
+
 1
 Get your instructions from your supervisor
 Watch this video and hear about your task.
 
-Optional: Employment Preferences
-What kind of employment opportunities are you looking for?
-
-    Pre-internship
-    Internships / Vacation schemes
-    Full time
-
-This helps companies on Forage reach out to you for the right roles.
 2
 Here is the background information on your task
 
@@ -325,14 +210,6 @@ The team now has a good understanding of the data and feels confident to use the
 
 Feature engineering is one of the keys to unlocking predictive insight through mathematical modeling. Based on the data that is available and was cleaned, identify what you think could be drivers of churn for our client and build those features to later use in your model.
 
-Invite a friend & complete the program together.
-
-Know someone who would love this?
-Share this with them!
-
-Copy link
-
-Send via
 3
 Here is your task
 
@@ -345,52 +222,22 @@ Sub-task 2: Build the features in order to get ready to model
 Please submit your data as code script or a PDF version of the script/notebook. We recommend spending no more than 1.5 hours on this task.
 
 Please note, there are multiple ways to approach the task and that the sample answer is just one way to do it.
+
 4
 Resources to help you with the task
 
 We recognise that these tasks are challenging and that there are undoubtedly phrases and terminology you may not have heard before – don’t worry! We have tried to make this experience as true to life as possible and therefore our ask is that you attempt to seek out independent sources of information and do your own research, as required, to help guide you through the tasks.
-5
-Submit your work
-You may only credit this task to your CV if you make a genuine attempt at the work. You may resubmit work, iterate upon and reattempt work as many times as you want.
 
-
-Click here to submit your work
-You will be sent to the submission upload page. You may resubmit work, iterate upon, and reattempt work as many times as you want.
-Your Incomplete Deliverables:
-Click to revisit them and update them instead of starting a new submission
-
-6
-Unlock the model work
-Download an example of work done at BCG in this topic. Submit an attempt at work first before this unlocks. 
 
 Task 4
 Modeling & Evaluation
 
 Modeling the problem and evaluating your model
-watch video instructions
-Watch video instructions
-Get background info and context
-Get background info and context
-Get details for your task
-Get details for your task
-View resources to help you learn
-View resources to help you learn
-Submit your work on this page
-Submit your work on this page
-Unlock model work
-Unlock the model work
+
 1
 Get your instructions from your supervisor
 Watch this video and hear about your task.
 
-Optional: Employment Preferences
-What kind of employment opportunities are you looking for?
-
-    Pre-internship
-    Internships / Vacation schemes
-    Full time
-
-This helps companies on Forage reach out to you for the right roles.
 2
 Here is the background information on your task
 
@@ -400,14 +247,6 @@ The client also wants to try a discounting strategy, with the head of the SME di
 
 Build your models and test them while keeping in mind you would need data to prove/disprove the hypotheses, as well as to test the effect of a 20% discount on customers at high propensity to churn.
 
-Invite a friend & complete the program together.
-
-Know someone who would love this?
-Share this with them!
-
-Copy link
-
-Send via
 3
 Here is your task
 
@@ -426,52 +265,22 @@ Interpret the results and use them to formulate your answers to the client’s h
 Please submit your data as code script or a PDF version of the script/notebook. We recommend spending no more than 2 hours on this task.
 
 Please note, there are multiple ways to approach the task and that the sample answer is just one way to do it.
+
 4
 Resources to help you with the task
 
 We recognise that these tasks are challenging and that there are undoubtedly phrases and terminology you may not have heard before – don’t worry! We have tried to make this experience as true to life as possible and therefore our ask is that you attempt to seek out independent sources of information and do your own research, as required, to help guide you through the tasks.
-5
-Submit your work
-You may only credit this task to your CV if you make a genuine attempt at the work. You may resubmit work, iterate upon and reattempt work as many times as you want.
 
-
-Click here to submit your work
-You will be sent to the submission upload page. You may resubmit work, iterate upon, and reattempt work as many times as you want.
-Your Incomplete Deliverables:
-Click to revisit them and update them instead of starting a new submission
-
-6
-Unlock the model work
-Download an example of work done at BCG in this topic. Submit an attempt at work first before this unlocks. 
 
 Task 5
 Insights & Recommendation
 
 Putting it all together
-watch video instructions
-Watch video instructions
-Get background info and context
-Get background info and context
-Get details for your task
-Get details for your task
-View resources to help you learn
-View resources to help you learn
-Submit your work on this page
-Submit your work on this page
-Unlock model work
-Unlock the model work
+
 1
 Get your instructions from your supervisor
 Watch this video and hear about your task.
 
-Optional: Employment Preferences
-What kind of employment opportunities are you looking for?
-
-    Pre-internship
-    Internships / Vacation schemes
-    Full time
-
-This helps companies on Forage reach out to you for the right roles.
 2
 Here is the background information on your task
 
@@ -479,14 +288,6 @@ The client wants a quick update on the project progress.
 
 The Lead Data Scientist wants you to draft an executive summary of your findings so far. 
 
-Invite a friend & complete the program together.
-
-Know someone who would love this?
-Share this with them!
-
-Copy link
-
-Send via
 3
 Here is your task
 
@@ -495,13 +296,12 @@ Develop an executive summary slide synthesizing all the findings from the projec
 Please use the template below and submit your summary slide in PDF format. We recommend spending no more than 45 minutes on this task. 
 
 Please note, there are multiple ways to approach the task and that the sample answer is just one way to do it.
+
 4
 Resources to help you with the task
 
 Best practice executive summary slide
-Click to download file →
 Template Slide
-Click to download file →
 
 We recognise that these tasks are challenging and that there are undoubtedly phrases and terminology you may not have heard before – don’t worry! We have tried to make this experience as true to life as possible and therefore our ask is that you attempt to seek out independent sources of information and do your own research, as required, to help guide you through the tasks.
 
